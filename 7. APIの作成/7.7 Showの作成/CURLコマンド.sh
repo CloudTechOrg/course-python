@@ -1,0 +1,1 @@
+curl -X GET <your-api-url>

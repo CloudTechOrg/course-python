@@ -1,0 +1,1 @@
+curl -X GET https://<your-api-url>
